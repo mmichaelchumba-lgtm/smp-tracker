@@ -1,2 +1,2 @@
 def assess_day(steps):
-    return steps >= 8000
+    return steps >= 9000
