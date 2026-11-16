@@ -1,1 +1,1 @@
-print('SMP tracker is running')
+print('SMP Tracker is running successfully')
